@@ -1,4 +1,4 @@
-## 👨🏻‍💻 André Zardini Dourado
+# 👨🏻‍💻 André Zardini Dourado
 
 **`Estudante de ADS | Desenvolvedor Web | Python Back-end e Dados`**
 
@@ -27,14 +27,14 @@ Gosto de transformar problemas reais em soluções digitais, conectando desenvol
         <img
             alt="LinkedIn"
             title="Conecte-se comigo no LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-André%20Dourado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/André%20Dourado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="https://kdsolutionsweb.com.br/">
         <img
             alt="Portfólio KD Solutions"
             title="Conheça a KD Solutions"
-            src="https://img.shields.io/badge/Portfólio-KD%20Solutions-ff1838?style=for-the-badge&logo=vercel&logoColor=white"
+            src="https://img.shields.io/badge/KD%20Solutions-ff1838?style=for-the-badge&logoColor=white"
         />
     </a>
 </p>
@@ -50,27 +50,25 @@ Gosto de transformar problemas reais em soluções digitais, conectando desenvol
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="FastAPI" title="FastAPI" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="Pytest" title="Pytest" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/github/ffffff" />
 <img align="left" alt="Cloudflare" title="Cloudflare" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
+<img align="left" alt="Vercel" title="Vercel" width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/vercel/ffffff" />
 
 <br/>
 <br/>
+
+![APIs REST](https://img.shields.io/badge/APIs%20REST-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 #### 📊 Dados e BI
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-#### 📚 Atualmente aprofundando
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![REST API](https://img.shields.io/badge/APIs%20REST-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
@@ -86,7 +84,7 @@ Gosto de transformar problemas reais em soluções digitais, conectando desenvol
 
 - Conquistar uma oportunidade de estágio em desenvolvimento de software, back-end, dados ou automação.
 - Construir APIs com Python, PostgreSQL, testes automatizados e regras de negócio bem documentadas.
-- Evoluir em Docker, Linux, cloud e arquitetura de sistemas.
+- Evoluir em cloud e arquitetura de sistemas.
 - Transformar projetos reais em estudos de caso claros e reproduzíveis.
 
 ---
