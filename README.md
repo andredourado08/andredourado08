@@ -1,4 +1,4 @@
-# 👨🏻‍💻 André Zardini Dourado
+👨🏻‍💻 André Zardini Dourado
 
 **`Estudante de ADS | Desenvolvedor Web | Python Back-end e Dados`**
 
@@ -27,14 +27,14 @@ Gosto de transformar problemas reais em soluções digitais, conectando desenvol
         <img
             alt="LinkedIn"
             title="Conecte-se comigo no LinkedIn"
-            src="https://img.shields.io/badge/André%20Dourado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/static/v1?label=Andr%C3%A9%20Dourado&message=%20&color=0A66C2&labelColor=0A66C2&style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjlINy4xMnYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8+PC9zdmc+"
         />
     </a>
     <a href="https://kdsolutionsweb.com.br/">
         <img
             alt="Portfólio KD Solutions"
             title="Conheça a KD Solutions"
-            src="https://img.shields.io/badge/KD%20Solutions-ff1838?style=for-the-badge&logoColor=white"
+            src="https://img.shields.io/static/v1?label=KD%20Solutions&message=%20&color=ff1838&labelColor=ff1838&style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjYwIDkwIDExMDAgNzIwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNzIwIDE3MGgxMjVjMTY1IDAgMjY1IDExNSAyNjUgMjgwUzEwMTAgNzMwIDg0NSA3MzBINzIwbDEwOC0xMjJoMjJjODUgMCAxMzgtNjAgMTM4LTE1OHMtNTMtMTU4LTEzOC0xNThoLTIyeiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik01MjAgMTcwaDIwMEw0NTUgNDUwbDI2NSAyODBINTIwTDI2MCA0NTB6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyMCAxNzBoMTMwdjE3NWwtNjUgNjUtNjUtNjV6TTEyMCA1NTVsNjUtNjUgMjQ1IDI0MEgyNDVMMTIwIDYwNXoiLz48L3N2Zz4="
         />
     </a>
 </p>
@@ -114,3 +114,4 @@ Gosto de transformar problemas reais em soluções digitais, conectando desenvol
 <p align="center">
     <i>Construindo soluções entre web, dados e back-end.</i>
 </p>
+
